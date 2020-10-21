@@ -1,7 +1,7 @@
 # Volvo-Euro-Unit-Conversion-Tool
 Converts Volvo's European Units
 
-# Foobar
+# Info
 
 A very simple python script to convert nm and kPa to Foot-Pound and psi.
 
